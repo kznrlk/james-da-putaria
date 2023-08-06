@@ -1,0 +1,26 @@
+{
+    "privadex": {
+        "idcupom": "privadex",
+        "quantidade": "1",
+        "minimo": "0",
+        "desconto": "50"
+    },
+    "DEDERA": {
+        "idcupom": "DEDERA",
+        "quantidade": "0",
+        "minimo": "20",
+        "desconto": "50"
+    },
+    "sayle": {
+        "idcupom": "sayle",
+        "quantidade": "10",
+        "minimo": "20",
+        "desconto": "50"
+    },
+    "nyxx": {
+        "idcupom": "nyxx",
+        "quantidade": "9",
+        "minimo": "20",
+        "desconto": "50"
+    }
+}

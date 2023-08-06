@@ -1,0 +1,17 @@
+Pra pegar perm de ADM e DONO do BOT 
+Vá na pasta 'Commands' > donoadd.js vai tá assim: 
+if (message.author.id !== `seu id`) return message.reply(`⚡ | Apenas o criador do bot pode usar isso!`)
+Muda 'seu id' pro seu id, obv k
+
+Depois vá em 'Databases' > myJsonPerms.json e vai tá:
+{
+    "1053437334672121956_id": "1053437334672121956"
+}
+
+Mude esse numero ai sem tirar o 'id' 
+ex: 
+{
+    "SEU ID AQUI_id": "SEU ID AQUI"
+}
+
+NÃO TIRA A PORRA DO '_id' 

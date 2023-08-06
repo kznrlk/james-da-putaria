@@ -1,0 +1,44 @@
+{
+    "Nitro": {
+        "idproduto": "Nitro",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "Sayle": {
+        "idproduto": "Sayle",
+        "nome": "Testando aq mn",
+        "desc": "Raio",
+        "preco": "20",
+        "conta": [
+            "A",
+            "A",
+            "a",
+            "a",
+            "A"
+        ]
+    },
+    "NyxC": {
+        "idproduto": "NyxC",
+        "nome": "Nyxteste",
+        "desc": "n sei",
+        "preco": "66",
+        "conta": [
+            "a",
+            "a",
+            "a"
+        ]
+    },
+    "NyxxC": {
+        "idproduto": "NyxxC",
+        "nome": "NyxC",
+        "desc": "n sei",
+        "preco": "66",
+        "conta": [
+            "n",
+            "n",
+            "n"
+        ]
+    }
+}
